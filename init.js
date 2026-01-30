@@ -36,7 +36,7 @@ document.getElementById('nav').innerHTML = nav;
 
 // Navigation button event listeners
 document.getElementById('home-button').addEventListener('click', function() {
-    window.location.href = '/index';
+    window.location.href = '/';
 });
 
 document.getElementById('submission-procedure-button').addEventListener('click', function() {
