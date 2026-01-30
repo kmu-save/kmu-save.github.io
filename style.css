@@ -59,3 +59,15 @@ a:hover {
 a:visited {
     color: #835ac4;
 }
+
+.inline-image {
+    vertical-align: middle;
+    max-height: 1.2em;
+}
+
+.box-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
